@@ -1,9 +1,13 @@
 {
-  "name": "comp229-001",
-  "version": "0.0.0",
+  "name": "comp229-f2022-a1",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "./server.js"
+  },
+  "engines": {
+    "node": "^16.00.0",
+    "npm": "^8.00.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",
@@ -16,5 +20,18 @@
     "jquery": "^3.6.1",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "demo app for comp229 a1",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boandri/COMP229-F2022-A1.git"
+  },
+  "author": "Seo Woo Jang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boandri/COMP229-F2022-A1/issues"
+  },
+  "homepage": "https://github.com/boandri/COMP229-F2022-A1#readme"
 }
